@@ -1,7 +1,3 @@
-my nih ga
-kuuuuuuuuuuuuuuurwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-my nih ga 
-lemme lemme nut yo
 [Part I]
 
 [Intro: Drake]
@@ -132,4 +128,4 @@ Ain't by the book, yeah, this how it look, yeah
 'Bout a check, yeah (Check), just check the foots, yeah
 Pass this to my daughter, I'ma show her what it took (Yeah)
 Baby mama cover Forbes, got these other bitches shook
-Yeah
+Yeahs
