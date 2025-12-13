@@ -1,1 +1,7 @@
+# Opis Projektu
+Projekt dotyczy aplikacji wspierającej studentów w planowaniu nauki i organizacji zadań. 
+## Opis problemu
+Rozwiązuje problem braku struktury oraz nadmiaru informacji podczas studiów. 
+Główne funkcje to lista zadań, kalendarz tygodniowy oraz proste statystyki postępów. Odbiorcami są osoby w wieku 18–25 lat, które chcą lepiej organizować obowiązki i czas nauki. 
 
+Aplikacja pozwoli szybko dodawać zadania, ustawiać priorytety, otrzymywać przypomnienia i śledzić efektywność nauki w prosty i przejrzysty sposób.
