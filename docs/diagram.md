@@ -1,5 +1,5 @@
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph APP[APLIKACJA: Planer Studenta]
         S[Student 18-25Lat]
         A[Dodaj zadanie]
