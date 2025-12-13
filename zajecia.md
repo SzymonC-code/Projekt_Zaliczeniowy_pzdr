@@ -1,8 +1,14 @@
+![cypson](mikrocypek-cypek.jpg) 
 # DUŻY naglowek
 jakis tekst pod duzym
 ## ŚREdni 
 możemy **pogrubiać i jak mamy więcej wyzarów** ważne kwestie i *kursywa co nie?*
 ### mały
+---
+| KolumnA | KolumnB | Kolumc |
+| --- | --- | --- |
+| LLinoa3 | Liinia2 | Lina1 |
+| LLinoa2 | Liini32 | Li213na1 |
 - pierwszy element
 - drugi element
 - trzeci element
@@ -16,4 +22,7 @@ możemy **pogrubiać i jak mamy więcej wyzarów** ważne kwestie i *kursywa co 
 
 [link do google.pl](https://google.pl)
 
-![cypson](mikrocypek-cypek.jpg)
+> Are you sure❓
+- [x] cos
+- [ ] test
+- [ ] życie
